@@ -1,0 +1,1 @@
+# C-Users-cosmi-Desktop-arduino-esp8266fs-plugin-master
